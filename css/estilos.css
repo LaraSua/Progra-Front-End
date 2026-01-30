@@ -3,6 +3,19 @@ h2 {
 }
 
 li {
-    color: rgb(102, 0, 128);
-    background-color: lightpink;
+    color: black;
+    background-color: aquamarine;
+}
+
+table {
+    border: 3px solid dotted greenyellow
+}
+
+th {
+    background-color: plum;
+    font-size: 30px;
+}
+
+td {
+    background-color: lime;
 }
